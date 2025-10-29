@@ -26,5 +26,3 @@ WHILE I'M AFK 🎮:
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasslerjuma)](https://github.com/hasslerjuma/edit/main/README.md)
-https://github.com/hasslerjuma/hasslerjuma/edit/main/README.md
