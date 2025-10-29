@@ -24,3 +24,7 @@ WHILE I'M AFK 🎮:
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasslerjuma)](https://github.com/hasslerjuma/edit/main/README.md)
+https://github.com/hasslerjuma/hasslerjuma/edit/main/README.md
