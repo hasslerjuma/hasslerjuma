@@ -1,3 +1,6 @@
+SOCIALS : 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - hasslerjuma96@gmail.com
+
 LANGUAGES : 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,5 +29,4 @@ WHILE I'M AFK 🎮:
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasslerjuma)](https://github.com/hasslerjuma/github-readme-stats)
 
