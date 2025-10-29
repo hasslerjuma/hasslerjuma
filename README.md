@@ -26,3 +26,5 @@ WHILE I'M AFK 🎮:
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasslerjuma)](https://github.com/hasslerjuma/github-readme-stats)
+
