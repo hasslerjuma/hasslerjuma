@@ -2,6 +2,8 @@ SOCIALS :
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - hasslerjuma96@gmail.com
 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/hass1er.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasslerjuma/) 
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - https://www.linkedin.com/in/hasslerjuma/
 
 
@@ -13,10 +15,6 @@ SOCIALS :
 
 
 [![](https://visitcount.itsvg.in/api?id=hasslerjuma&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
 
 
 WHILE I'M AFK 🎮: 
